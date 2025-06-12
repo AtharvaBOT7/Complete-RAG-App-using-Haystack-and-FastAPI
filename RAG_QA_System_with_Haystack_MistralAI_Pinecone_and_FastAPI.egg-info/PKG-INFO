@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: RAG-QA-System-with-Haystack-MistralAI-Pinecone-and-FastAPI
+Version: 0.0.1
+Author: Atharva Chundurwar
+Author-email: atharvachundurwar841@gmail.com
+Requires-Dist: pinecone-haystack
+Requires-Dist: haystack-ai
+Requires-Dist: fastapi
+Requires-Dist: uvicorn
+Requires-Dist: python-dotenv
+Requires-Dist: pathlib
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist

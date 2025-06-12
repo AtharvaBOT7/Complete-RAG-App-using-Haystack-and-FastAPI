@@ -3,6 +3,4 @@ haystack-ai
 fastapi
 uvicorn
 python-dotenv
-pathlib 
-
--e .
+pathlib
