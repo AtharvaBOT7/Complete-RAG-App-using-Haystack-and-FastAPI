@@ -4,5 +4,6 @@ fastapi
 uvicorn
 python-dotenv
 pathlib 
+pypdf
 
 -e .
