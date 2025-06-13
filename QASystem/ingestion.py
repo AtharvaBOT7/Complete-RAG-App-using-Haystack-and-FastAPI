@@ -7,4 +7,10 @@ from haystack.components.converters import PyPDFToDocument
 from pathlib import Path
 import os
 from dotenv import load_dotenv
-from QASystem.utility import pinecone_config
+
+def ingest():
+    pass
+
+if __name__=="__main__":
+
+    ingest()
